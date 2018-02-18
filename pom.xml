@@ -75,8 +75,8 @@
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
-                        <Bundle-SymbolicName>com.github.igor-suhorukov.camel-gcode</Bundle-SymbolicName>
-                        <Export-Service>org.apache.camel.spi.ComponentResolver;component=gcode</Export-Service>
+                        <Bundle-SymbolicName>com.github.igor-suhorukov.camel-mpd</Bundle-SymbolicName>
+                        <Export-Service>org.apache.camel.spi.ComponentResolver;component=mpd</Export-Service>
                     </instructions>
                 </configuration>
             </plugin>
