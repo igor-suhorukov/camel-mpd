@@ -14,6 +14,13 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
+    <scm>
+        <url>https://github.com/igor-suhorukov/camel-mpd.git</url>
+        <connection>scm:git:git://github.com/igor-suhorukov/camel-mpd.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/igor-suhorukov/camel-mpd.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
     <dependencies>
         <dependency>
             <groupId>net.thejavashop</groupId>
