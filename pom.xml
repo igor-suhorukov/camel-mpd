@@ -9,7 +9,7 @@
 
     <groupId>com.github.igor-suhorukov</groupId>
     <artifactId>camel-mpd</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <apache.camel.version>2.20.2</apache.camel.version>
